@@ -7,5 +7,6 @@
 2. 
 >**1. Resumé** : test
 [clic ici](www.google.com)
->**2. image**
+
+**2. image**
 ![image](

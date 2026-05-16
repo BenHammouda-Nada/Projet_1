@@ -6,4 +6,6 @@
 1. 
 2. 
 >**1. Resumé** : test
-[clic ici](www.google)
+[clic ici](www.google.com)
+>**2. image**
+![image](

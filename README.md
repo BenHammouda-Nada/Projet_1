@@ -10,4 +10,10 @@
 
 **2. image**
 
-![image](imag_biomed.webp)
+![image](imag_biomed.webp) 
+
+```python
+# exemple
+def salut():
+print ("bonjour")
+```

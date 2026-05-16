@@ -2,6 +2,6 @@
 ## sous-titre
 **gras**
 *italique* 
---tild--
+~~tild~~
 1. 
 2. 
